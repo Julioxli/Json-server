@@ -1,0 +1,45 @@
+{
+    "mouse":[
+        {
+            "id": 1,
+            "marca": "Samsung"
+        },
+        {
+            "id": 2,
+            "marca": "Apple"
+        },
+        {
+            "id": 3,
+            "marca": "Microsoft"
+        }
+    ],
+
+    "Headphone":[
+        {
+            "id": 1,
+            "cor": "Preto"
+        },
+        {
+            "id": 2,
+            "cor": "Branco"
+        },
+        {
+            "id": 3,
+            "cor": "Cinza"
+        }
+    ],
+    "Mouse-pad":[
+        {
+            "id": 1,
+            "tamanho": "Pequeno"
+        },
+        {
+            "id": 2,
+            "tamanho": "Médio"
+        },
+        {
+            "id": 3,
+            "tamanho": "Grande"
+        }
+    ]
+}
