@@ -1,22 +1,25 @@
 {
     "produtos":[
-        {
-            "id": 1,
-            "mercadoria": "mouse",
-            "marca": "microsoft",
-             "cor": "preto"
+        { 
+             "id": 1,
+             "mercadoria": "mouse",
+             "marca": "microsoft",
+             "cor": "preto",
+             "valor": 60
         },
         {
-            "id": 2,
-            "mercadoria": "headphone",
-            "marca": "samsung",
-             "cor": "branco"
+             "id": 2,
+             "mercadoria": "headphone",
+             "marca": "samsung",
+             "cor": "branco",
+             "valor": 150
         },
         {
-            "id": 3,
-            "mercadoria": "mouse-pad",
-            "marca": "apple",
-             "cor": "cinza"
+             "id": 3,
+             "mercadoria": "mouse-pad",
+             "marca": "apple",
+             "cor": "cinza",
+             "valor": 30
         }
     ],
     "funcionarios":[
