@@ -1,45 +1,71 @@
 {
-    "mouse":[
+    "produtos":[
         {
             "id": 1,
-            "marca": "Samsung"
+            "mercadoria": "mouse",
+            "marca": "microsoft",
+             "cor": "preto"
         },
         {
             "id": 2,
-            "marca": "Apple"
+            "mercadoria": "headphone",
+            "marca": "samsung",
+             "cor": "branco"
         },
         {
             "id": 3,
-            "marca": "Microsoft"
+            "mercadoria": "mouse-pad",
+            "marca": "apple",
+             "cor": "cinza"
         }
     ],
-
-    "Headphone":[
+    "funcionarios":[
         {
-            "id": 1,
-            "cor": "Preto"
+         "id": 1,
+         "nome": "José Carlos Santos",
+         "idade": 25,
+         "cargo": "gerente",
+         "salario": 1900
         },
         {
             "id": 2,
-            "cor": "Branco"
+            "nome": "João luis Silva",
+            "idade": 21,
+            "cargo": "estoquista",
+            "salario": 1500
         },
         {
             "id": 3,
-            "cor": "Cinza"
+            "nome": "Pedro dos santos de França",
+            "idade": 21,
+            "cargo": "faxineiro",
+            "salario": 1300
         }
     ],
-    "Mouse-pad":[
+    "clientes":[
         {
             "id": 1,
-            "tamanho": "Pequeno"
+            "nome": "Júlio César dos Santos de França",
+            "endereço": "Rua do bobo, N 0, olaria",
+            "emai": "julioxlima626@gmail.com", 
+            "telefone": 21980055316,
+            "cpf": 18942867683
         },
         {
             "id": 2,
-            "tamanho": "Médio"
+            "nome": "Joaquim Xavier lima",
+            "endereço": "Rua piquete, N 59, bonsucesso",
+            "emai": "Joaquimmaster@gmail.com", 
+            "telefone": 21980365316,
+            "cpf": 18942867696
         },
         {
             "id": 3,
-            "tamanho": "Grande"
+            "nome": "Thiago Gomes Freire",
+            "endereço": "Rua do bobo n 0",
+            "emai": "Thiagofreire@gmail.com", 
+            "telefone": 21921455316,
+            "cpf": 18942867865
         }
     ]
 }
